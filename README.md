@@ -7,7 +7,7 @@ Input Format:The input file will be called input1.txt and be in the same directo
 
 Output:A single number which is the number of different stable matches.
 
-Examples:If the input was 2
+Examples:If the input was 2 </br>
 1 2
 1 2
 1 2

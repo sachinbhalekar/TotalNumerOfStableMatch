@@ -8,16 +8,16 @@ Input Format:The input file will be called input1.txt and be in the same directo
 Output:A single number which is the number of different stable matches.
 
 Examples:If the input was 2 </br>
-1 2
-1 2
-1 2
-1 2
-then the output woud be 1.
+1 2 </br>
+1 2 </br>
+1 2 </br>
+1 2 </br>
+then the output woud be 1. </br> </br>
 
-If the input was
-2
-1 2
-2 1
-2 1
-1 2
-then the output woud be 2
+If the input was </br>
+2 </br>
+1 2 </br>
+2 1 </br>
+2 1 </br>
+1 2 </br>
+then the output woud be 2 </br> </br>
